@@ -1,0 +1,7 @@
+OBJETO:    Es todo lo que nos rode. Todo aquello que tiene propiedades y caracteristicas es considerado un objeto.
+PROPIEDADES :   Caracteristicas propias del objeto.
+METODOS:    Son todas las funcionalidades o funciones guardadas dentro del objeto.
+BUCLE FOR..IN : Es un tipo de bucle alterno al FOR, el cual recorre cada una de sus propiedades del obejto.
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES :   Son identificadores de acceso al obejto, para utilizar las  
+                                                notacion de punto, este debe ser valido en el obejto. En el 
+                                                caso de corchete es una cadena.
