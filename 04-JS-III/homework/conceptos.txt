@@ -1,0 +1,3 @@
+CONCEPTOS
+
+ARRAY:  Es una estructura de datos, es una coleccion de elementos o cosas.
