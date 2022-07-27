@@ -1,0 +1,2 @@
+PROTOTYPE:  Es un objeto con un constructor por defecto, el cual tiene metodos y funciones.
+CONSTRUCTORS (DE CLASES):   Es un metodo de la clase, utilizado para inicializar el objeto.
