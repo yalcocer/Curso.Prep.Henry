@@ -1,0 +1,2 @@
+CALLBACK:    Se llama callback a la funcion que se ejecuta una vez se haya terminado de ejecutar otra, generalmente esta funcion es invocada como argumento
+            dentro de otra funcion.
